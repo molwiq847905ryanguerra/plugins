@@ -678,3 +678,5 @@ This release caches reading/statting of files, to improve speed.
 ## 0.1.0
 
 - First release
+
+<!-- Auto-update: 2025-10-19T11:22:04.034375 -->
